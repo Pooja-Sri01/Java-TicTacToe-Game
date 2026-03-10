@@ -1,5 +1,3 @@
-# Java-TicTacToe-Game
-A Java Swing Tic Tac Toe game with animations and confetti celebration.
 # Java Tic Tac Toe Game 🎮
 
 This project is a GUI-based Tic Tac Toe game built using Java Swing.
